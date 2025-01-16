@@ -1,3 +1,11 @@
+let username 
+
+username = window.prompt(" what is your tiktok username ? "); 
+
+
+
+
+
 const TelegramBot = require('node-telegram-bot-api');
 
 // Replace 'YOUR_BOT_TOKEN' with the token you obtained from BotFather

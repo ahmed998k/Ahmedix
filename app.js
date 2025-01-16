@@ -1,4 +1,4 @@
-const botToken = '6105219066:AAGMlzNkGUP9Vj6AJsog-AKOe-NDx6ok3zc';  // Replace with your bot's token
+const botToken = 'AAGMlzNkGUP9Vj6AJsog-AKOe-NDx6ok3zc';  // Replace with your bot's token
 const chatId = '6105219066';      // Replace with your Telegram chat ID
 
 // Prompt user for input
